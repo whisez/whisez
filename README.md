@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm whisez 👋
 
-<!--
-**whisez/whisez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build **WhisezOS**, an experimental cyberpunk operating system and defensive toolkit in Rust.
 
-Here are some ideas to get you started:
+- 🦀 Rust, low-level systems, and security
+- 🖥️ UEFI boot preview and microkernel architecture
+- 🛡️ Local-only defensive tooling with Whisez Guard
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured project
+
+[**WhisezOS**](https://github.com/whisez/WhisezOS) — capability-secured OS research, a bootable preview, and 234 host-side tests.
+
+[YouTube](https://www.youtube.com/@alperenalkan-h6m)
