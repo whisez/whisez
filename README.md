@@ -10,4 +10,4 @@ I build **WhisezOS**, an experimental cyberpunk operating system and defensive t
 
 [**WhisezOS**](https://github.com/whisez/WhisezOS) — capability-secured OS research, a bootable preview, and 234 host-side tests.
 
-[YouTube](https://www.youtube.com/@alperenalkan-h6m)
+[YouTube](https://www.youtube.com/@whisez1)
